@@ -1,1 +1,0 @@
-# node-health-shell-scripting
